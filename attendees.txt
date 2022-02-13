@@ -1,6 +1,5 @@
 Please enter your names and email ids below:
-AICoE aicoe@redhat.com
-Anish Asthana aasthana@redhat.com
-hnalla@redhat.com
-Claire cburkhar@redhat.com
-Aman abatra@redhat.com
+Langdon langd0n@bu.edu
+Matthew mattm@bu.edu
+Harsh hmutha31@bu.edu
+

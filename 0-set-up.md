@@ -3,7 +3,7 @@
 ## Step 0.1: Registering a GitHub account
 
 If you already have a GitHub account you'd like to use, log in to that account.<br>
-Tip: It would be helpful to register Red Hat email id to your GitHub for easy workflow. [Add Second Email to GitHub](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/adding-an-email-address-to-your-github-account)
+Tip: It would be helpful to register BU email id to your GitHub for easy workflow. [Add Second Email to GitHub](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/adding-an-email-address-to-your-github-account)
 
 Otherwise, register a GitHub account at <https://github.com/>.
 
@@ -57,7 +57,7 @@ sudo apt-get install git
 
 ### MacOS
 
-Use the the [Git for Mac Installer](https://sourceforge.net/projects/git-osx-installer/files/).
+Use the [Git for Mac Installer](https://sourceforge.net/projects/git-osx-installer/files/).
 
 Alternatively, if you have homebrew installed, you can issue:<br>
 `brew install git`

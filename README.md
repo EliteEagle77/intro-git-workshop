@@ -6,13 +6,13 @@ Follow along using the documents in this repository to see the exact commands an
 ## Table of Contents
 
 1. [images](https://github.com/BU-Spark/intro-git-workshop/tree/main/images).
-2. [Steps]
-    a. [0-set-up](https://github.com/BU-Spark/intro-git-workshop/blob/main/0-set-up.md)
-    b. [1-repo](https://github.com/BU-Spark/intro-git-workshop/blob/main/1-repo.md)
-    c. [2-changes](https://github.com/BU-Spark/intro-git-workshop/blob/main/2-changes.md)
-    d. [3-branches](https://github.com/BU-Spark/intro-git-workshop/blob/main/3-branches.md)
-    e. [4-fork](https://github.com/BU-Spark/intro-git-workshop/blob/main/4-fork.md)
-    f. [5-pr](https://github.com/BU-Spark/intro-git-workshop/blob/main/5-pr.md)
+2. [steps]
+  * [0-set-up](https://github.com/BU-Spark/intro-git-workshop/blob/main/0-set-up.md)
+  * [1-repo](https://github.com/BU-Spark/intro-git-workshop/blob/main/1-repo.md)
+  * [2-changes](https://github.com/BU-Spark/intro-git-workshop/blob/main/2-changes.md)
+  * [3-branches](https://github.com/BU-Spark/intro-git-workshop/blob/main/3-branches.md)
+  * [4-fork](https://github.com/BU-Spark/intro-git-workshop/blob/main/4-fork.md)
+  * [5-pr](https://github.com/BU-Spark/intro-git-workshop/blob/main/5-pr.md)
 3. [LICENSE](https://github.com/BU-Spark/intro-git-workshop/blob/main/LICENSE)
 4. [OWNERS](https://github.com/BU-Spark/intro-git-workshop/blob/main/OWNERS)
 5. [attendees](https://github.com/BU-Spark/intro-git-workshop/blob/main/attendees.txt)

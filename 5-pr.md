@@ -33,16 +33,16 @@ Ensure that your local repository is up-to-date with the changes in upstream.
 you would see:
 
 ```
-  hnalla@workstation ~/Demo/intern-bootcamp-git (feature) $ git rebase upstream/main
+  hmutha31@workstation ~/Demo/intro-git-workshop (feature) $ git rebase upstream/main
   First, rewinding head to replay your work on top of it...
-  Applying: added harshad
+  Applying: added harsh
   Using index info to reconstruct a base tree...
   M    attendees.txt
   Falling back to patching base and 3-way merge...
   Auto-merging attendees.txt
   CONFLICT (content): Merge conflict in attendees.txt
   error: Failed to merge in the changes.
-  Patch failed at 0001 added harshad
+  Patch failed at 0001 added harsh
 ```
 
 In case you get conficts, resolve the conflicts manually by going to the files having conflicts. Either accept the incoming changes from upstream or keep your local changes or both, you need to inspect and make the decision.
@@ -52,9 +52,9 @@ In case you get conficts, resolve the conflicts manually by going to the files h
   ```
   Please enter your names and email ids below:
   <<<<<< upstream/main
-  anish aasthana@redhat.com
+  langdon langdon@bu.edu
   ======
-  Harshad hnalla@redhat.com
+  Harsh hmutha31@bu.edu
   >>>>>> origin/feature
   ```
 
@@ -69,10 +69,10 @@ In case you get conficts, resolve the conflicts manually by going to the files h
 - Push changes `git push origin feature`
 
   ```
-  hnalla@workstation ~/Demo/intern-bootcamp-git (feature) $ git push origin feature
-  To github.com:harshad16/intern-bootcamp-git.git
+  hmutha31@workstation ~/Demo/intro-git-workshop (feature) $ git push origin feature
+  To github.com:hmutha31/intro-git-workshop.git
   ! [rejected]        feature -> feature (non-fast-forward)
-  error: failed to push some refs to 'git@github.com:harshad16/intern-bootcamp-git.git'
+  error: failed to push some refs to 'git@github.com:hmutha31/intro-git-workshop.git'
   hint: Updates were rejected because the tip of your current branch is behind
   hint: its remote counterpart. Integrate the remote changes (e.g.
   hint: 'git pull ...') before pushing again.

@@ -5,8 +5,8 @@ Follow along using the documents in this repository to see the exact commands an
 
 ## Table of Contents
 
-1. [images](https://github.com/BU-Spark/intro-git-workshop/tree/main/images).
-2. [steps]
+1. [images](https://github.com/BU-Spark/intro-git-workshop/tree/main/images)
+2. steps
   * [0-set-up](https://github.com/BU-Spark/intro-git-workshop/blob/main/0-set-up.md)
   * [1-repo](https://github.com/BU-Spark/intro-git-workshop/blob/main/1-repo.md)
   * [2-changes](https://github.com/BU-Spark/intro-git-workshop/blob/main/2-changes.md)
@@ -17,7 +17,6 @@ Follow along using the documents in this repository to see the exact commands an
 4. [OWNERS](https://github.com/BU-Spark/intro-git-workshop/blob/main/OWNERS)
 5. [attendees](https://github.com/BU-Spark/intro-git-workshop/blob/main/attendees.txt)
 6. [extra-resources](https://github.com/BU-Spark/intro-git-workshop/blob/main/extra-resources.md)
-
 
 ## Tips!
 

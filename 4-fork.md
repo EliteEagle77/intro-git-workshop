@@ -44,7 +44,7 @@ Resolving deltas: 100% (9/9), done.
 - Check remote again `git remote -v`. Now you should see two remotes, namely `upstream` and `origin`. Verify if the urls are corect. `upstream` should be our repo url. `origin` should be your repo url.
 
   ```
-  hmutha31@workstation ~/Demo/intern-bootcamp-git (main) $ git remote -v
+  hmutha31@workstation ~/Demo/intro-git-workshop (main) $ git remote -v
   origin    git@github.com:hmutha31/intro-git-workshop.git (fetch)
   origin    git@github.com:hmutha31/intro-git-workshop.git (push)
   upstream    git@github.com:BU-Spark/intro-git-workshop.git (fetch)
